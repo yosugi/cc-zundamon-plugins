@@ -1,0 +1,20 @@
+{
+  "name": "cc-zundamon-plugins",
+  "owner": {
+    "name": "yosugi"
+  },
+  "plugins": [
+    {
+      "name": "zundamon",
+      "source": "./",
+      "description": "ずんだもんキャラクターモードで開発をサポート",
+      "version": "1.0.0",
+      "author": {
+        "name": "yosugi"
+      },
+      "homepage": "https://github.com/yosugi/cc-zundamon-plugins",
+      "repository": "https://github.com/yosugi/cc-zundamon-plugins",
+      "license": "MIT"
+    }
+  ]
+}
